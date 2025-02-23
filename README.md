@@ -4,6 +4,7 @@
 
 - <b>[Designing and Implementing AD and Entara ID] </b>
   - [AD Concepts and Configurations](https://github.com/bryantcollins/AD-Concepts-and-Configurations)
+  - [Active DirectoryDomains](https://github.com/bryantcollins/AD-Concepts-and-Configurations)
 
 
 <h2>📺 Popular YouTube Videos</h2>
