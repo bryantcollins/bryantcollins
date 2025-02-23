@@ -1,9 +1,9 @@
 <h1>Hi, I'm Bryan! <br/>
 
-<h2>👨‍💻 Network Projects:</h2>
+<h2>👨‍💻 IT OPS:</h2>
 
-- <b>[Active Directory Home Lab] </b>
-  - [Test](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[Designing and Implementing AD and Entara ID] </b>
+  - [AD Concepts and Configurations]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/bryantcollins/AD-Concepts-and-Configurations))
 
 
 <h2>📺 Popular YouTube Videos</h2>
