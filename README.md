@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT OPS:</h2>
 
 - <b>[Designing and Implementing AD and Entara ID] </b>
-  - [AD Concepts and Configurations](https://github.com/bryantcollins/AD-Concepts-and-Configurations)
+  - [AD Concepts and Configurations](https://youtu.be/FkEDL-SJVoM))
   - [Active Directory Domains](https://github.com/bryantcollins/AD-Concepts-and-Configurations)
 
 
