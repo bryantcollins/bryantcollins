@@ -5,7 +5,7 @@
 - <b>[Designing and Implementing AD and Entara ID] </b>
   - [AD Concepts and Configurations](https://youtu.be/FkEDL-SJVoM))
   - [Active Directory Domains](https://youtu.be/T_dy6qSNxsI?si=bVSz193mhmi2MhRB)
-
+  - [Set Up a Realistic Windows 11 & Office 365 Lab in Minutes! 🔥](https://www.youtube.com/watch?v=EjdPHKcie50)
 
 <h2>📺 Popular YouTube Videos</h2>
 
