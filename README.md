@@ -1,5 +1,5 @@
 <h1>Hi, I'm Bryan! <br/>
-Solutions Architec</a>, <a href="https://www.linkedin.com/in/bryan-t-collins/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@TechDemosYT">YouTuber</a></h1>
+<a<>Solutions Architec</a>, <a href="https://www.linkedin.com/in/bryan-t-collins/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@TechDemosYT">YouTuber</a></h1>
 
 <h2>👨‍💻 IT OPS:</h2>
 
