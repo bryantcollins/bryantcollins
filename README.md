@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryan! <br/> <a href=https://github.com/bryantcollins>Solutions Architect</a>, <a href="https://www.linkedin.com/in/bryan-t-collins/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@TechDemosYT">YouTuber</a></h1>
+<h1>Hi, I'm Bryan! <br/> <a href=https://github.com/bryantcollins>Solutions Architect</a>, <a href="https://www.linkedin.com/in/bryan-t-collins/">IT Professional</a>, <a href="https://www.youtube.com/c/@TechDemosYT">YouTuber</a></h1>
 
 <h2>👨‍💻 IT OPS:</h2>
 
