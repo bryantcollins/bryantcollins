@@ -9,7 +9,9 @@
   - [Preparing A Cloud Lab Environment 🔥](https://www.youtube.com/watch?v=Qhw7x_DUidE)
 
 <h2>🌐 Networking:</h2>
-- <b>[How To Create A Loopback Interface] </b>(https://youtu.be/LXh6Fqss3lw)</b>
+- [How To Create A Loopback Interface](https://youtu.be/LXh6Fqss3lw)
+- [Configuring and Verifing RIPv2](https://youtu.be/SHcBsOetBH4)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
