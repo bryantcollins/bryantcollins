@@ -3,15 +3,17 @@
 <h2>👨‍💻 IT OPS:</h2>
 
 - <b>[Designing and Implementing AD and Entara ID] </b>
-  - [AD Concepts and Configurations](https://youtu.be/FkEDL-SJVoM))
+  - [AD Concepts and Configurations](https://youtu.be/FkEDL-SJVoM)
   - [Active Directory Domains](https://youtu.be/T_dy6qSNxsI?si=bVSz193mhmi2MhRB)
   - [Set Up a Realistic Windows 11 & Office 365 Lab in Minutes! 🔥](https://www.youtube.com/watch?v=EjdPHKcie50)
   - [Preparing A Cloud Lab Environment 🔥](https://www.youtube.com/watch?v=Qhw7x_DUidE)
 
 <h2>🌐 Networking:</h2>
-- [How To Create A Loopback Interface](https://youtu.be/LXh6Fqss3lw)
-<p>- [Configuring and Verifing RIPv2](https://youtu.be/SHcBsOetBH4)
-</p>
+
+- <b>[Cisco Enterprise Networks: Basic Networking and IP Fundamentals]</b>
+  - [How To Create A Loopback Interface](https://youtu.be/LXh6Fqss3lw)
+  - [Configuring and Verifing RIPv2](https://youtu.be/SHcBsOetBH4)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
