@@ -8,6 +8,9 @@
   - [Set Up a Realistic Windows 11 & Office 365 Lab in Minutes! 🔥](https://www.youtube.com/watch?v=EjdPHKcie50)
   - [Preparing A Cloud Lab Environment 🔥](https://www.youtube.com/watch?v=Qhw7x_DUidE)
 
+<h2>👨‍💻 Networking:</h2>
+- <b>[How To Create A Loopback Interface] </b>(https://youtu.be/LXh6Fqss3lw)
+  - 
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
