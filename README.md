@@ -15,20 +15,16 @@
   - [Configuring and Verifing RIPv2](https://youtu.be/SHcBsOetBH4)
   - [Configuring OSPF for IPv4 Normal Areas](https://youtu.be/ccBCLLqIEQA)
 
-<h2>📺 Popular YouTube Videos</h2>
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Bryan Collins | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
+
+[youtube]: https://www.youtube.com/@TechDemosYT
+[linkedin]: https://
+linkedin.com/in/bryan-t-collins
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
