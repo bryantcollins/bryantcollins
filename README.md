@@ -10,7 +10,7 @@
 
 <h2>🌐 Networking:</h2>
 
-- <b>[Cisco Enterprise Networks: Basic Networking and IP Fundamentals]</b>
+- <b>[Cisco Enterprise Networks: Networking and IP Fundamentals]</b>
   - [How To Create A Loopback Interface](https://youtu.be/LXh6Fqss3lw)
   - [Configuring and Verifing RIPv2](https://youtu.be/SHcBsOetBH4)
   - [Configuring OSPF for IPv4 Normal Areas](https://youtu.be/ccBCLLqIEQA)
