@@ -7,6 +7,7 @@
   - [Active Directory Domains](https://youtu.be/T_dy6qSNxsI?si=bVSz193mhmi2MhRB)
   - [Set Up a Realistic Windows 11 & Office 365 Lab in Minutes! 🔥](https://www.youtube.com/watch?v=EjdPHKcie50)
   - [Preparing A Cloud Lab Environment 🔥](https://www.youtube.com/watch?v=Qhw7x_DUidE)
+  - [How To Create A Bulk Enrollment Package 📦 with Windows Configuration Designer](https://youtu.be/ANB4sjwSPko)
 
 <h2>🌐 Networking:</h2>
 
