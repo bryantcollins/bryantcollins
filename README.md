@@ -8,6 +8,7 @@
   - [Set Up a Realistic Windows 11 & Office 365 Lab in Minutes! 🔥](https://www.youtube.com/watch?v=EjdPHKcie50)
   - [Preparing A Cloud Lab Environment 🔥](https://www.youtube.com/watch?v=Qhw7x_DUidE)
   - [How To Create A Bulk Enrollment Package 📦 with Windows Configuration Designer](https://youtu.be/ANB4sjwSPko)
+  - [How a User Initiates a Bulk Enrollment Package 📦](https://youtu.be/9pfxLlj1nYI)
 
 <h2>🌐 Networking:</h2>
 
