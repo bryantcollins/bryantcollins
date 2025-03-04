@@ -9,6 +9,7 @@
   - [Preparing A Cloud Lab Environment 🔥](https://www.youtube.com/watch?v=Qhw7x_DUidE)
   - [How To Create A Bulk Enrollment Package 📦 with Windows Configuration Designer](https://youtu.be/ANB4sjwSPko)
   - [How a User Initiates a Bulk Enrollment Package 📦](https://youtu.be/9pfxLlj1nYI)
+  - [How to setup Windows Intune Corporate Auto Enrollment](https://youtu.be/jWJPJSEAaFg)
 
 <h2>🌐 Networking:</h2>
 
