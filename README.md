@@ -18,7 +18,7 @@
   - [Configuring and Verifing RIPv2](https://youtu.be/SHcBsOetBH4)
   - [Configuring OSPF for IPv4 Normal Areas](https://youtu.be/ccBCLLqIEQA)
   - [OSPF Stub Area Configuartion](https://youtu.be/dLbPEo79vQI)
-  - [OSPF Toatally Stubby Area Configuartion](https://youtu.be/yQMo48JXKo8)
+  - [OSPF Totally Stubby Area Configuartion](https://youtu.be/yQMo48JXKo8)
 
 <h2> 🤳 Connect with me:</h2>
 
