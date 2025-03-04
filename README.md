@@ -19,6 +19,7 @@
   - [Configuring OSPF for IPv4 Normal Areas](https://youtu.be/ccBCLLqIEQA)
   - [OSPF Stub Area Configuartion](https://youtu.be/dLbPEo79vQI)
   - [OSPF Totally Stubby Area Configuartion](https://youtu.be/yQMo48JXKo8)
+  - [OSPF NSSA Configuration and 🔀 Virtual Links](https://youtu.be/CsjbY3Fs3dQ)
 
 <h2> 🤳 Connect with me:</h2>
 
