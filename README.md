@@ -10,6 +10,7 @@
   - [How To Create A Bulk Enrollment Package 📦 with Windows Configuration Designer](https://youtu.be/ANB4sjwSPko)
   - [How a User Initiates a Bulk Enrollment Package 📦](https://youtu.be/9pfxLlj1nYI)
   - [How to setup Windows Intune Corporate Auto Enrollment](https://youtu.be/jWJPJSEAaFg)
+  - [How to setup DNS on Windows Server 2022](https://www.youtube.com/watch?v=GKQ-R3N22bE)
 
 <h2>🌐 Networking:</h2>
 
